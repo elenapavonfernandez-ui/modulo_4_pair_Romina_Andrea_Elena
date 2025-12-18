@@ -1,8 +1,7 @@
-# PROYECTO 'FRIENDS': Análisis de Datos de la Icónica Serie.
+# PROYECTO 'FRIENDS':  Análisis de Datos de la Icónica Serie.
 
 <p align="center">
-  <images src="images/Friends_logo.svg.png"
- width="100%" alt="Friends Banner">
+  <img src="images/Friends_logo.svg.png" width="100%" alt="Friends Banner">
 </p>
 
 ## ¡Bienvenido al Central Perk de los datos!
