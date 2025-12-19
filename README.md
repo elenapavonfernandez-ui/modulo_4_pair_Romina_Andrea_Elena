@@ -112,7 +112,7 @@ Proyecto realizado (con casi tanto café ☕ como el consumido por los personaje
 
 ## Enlaces de Interés
 
-* **Dashboard Interactivo:** [Ver en Tableau Public](_URL_AQUÍ)
+* **Dashboard Interactivo:** [Ver en Tableau Public](friends - definitivo.twbx)
 * **Datasets originales:**
     * [Dataset Principal - Kaggle](https://www.kaggle.com/datasets/rezaghari/friends-series-dataset?select=friends_episodes_v3.csv)
     * [Dataset Complementario - Kaggle](https://www.kaggle.com/datasets/sujaykapadnis/friends?select=friends_info.csv)
